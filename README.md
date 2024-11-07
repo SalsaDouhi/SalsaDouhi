@@ -70,5 +70,4 @@
 # 📊 GitHub Stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salsadouhi&show_icons=true&theme=dark&locale=en" alt="salsadouhi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salsadouhi&theme=dark" alt="salsadouhi" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salsadouhi&theme=dark&layout=compact" alt="top-langs" /></p>
