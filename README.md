@@ -3,11 +3,7 @@
 <h1 align="center">Hi 👋, I'm Salsabil Douhi</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/salsabil-douhi-577b66205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salsabil-douhi-577b66205/" height="30" width="40" /></a>
-</p>
+<p align="center">Driven by a love for frontend technologies, I constantly seek opportunities to grow and learn. My journey as a developer is fueled by curiosity and dedication to mastering the craft of creating visually appealing, user-friendly applications. I'm always excited to expand my skill set and take on new challenges, keeping up with industry trends and innovations. With each project, I strive to improve and make a meaningful impact in the world of web development.</p>
 
 # 💻 Tech Stack:
 
@@ -65,7 +61,14 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
+# 🌐 Connect with me:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salsadouhi&show_icons=true&locale=en" alt="salsadouhi" /></p>
+<p align="left">
+<a href="https://linkedin.com/in/salsabil-douhi-577b66205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salsabil-douhi" height="30" width="40" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salsadouhi&" alt="salsadouhi" /></p>
+# 📊 GitHub Stats:
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salsadouhi&show_icons=true&theme=dark&locale=en" alt="salsadouhi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salsadouhi&theme=dark" alt="salsadouhi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salsadouhi&theme=dark&layout=compact" alt="top-langs" /></p>
