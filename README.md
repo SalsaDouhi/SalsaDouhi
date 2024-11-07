@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Salsabil%20
+![Salsabil](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Salsabil%20&textBg=false&fontSize=70&fontAlignY=43&fontAlign=50&section=header&reversal=true)
 
 <h1 align="center">Hi 👋, I'm Salsabil Douhi</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
